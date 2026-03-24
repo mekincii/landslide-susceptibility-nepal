@@ -274,7 +274,7 @@ This project demonstrates that landslide susceptibility modeling is not solely a
 
 ---
 
-### ⚖ML vs Fuzzy Trade-off
+### ML vs Fuzzy Trade-off
 
 The comparison between paradigms highlights a clear trade-off:
 
