@@ -212,10 +212,17 @@ Includes:
 
 ## Figures
 
-results/figures/glc_nepal_distribution.png  
-results/figures/sample_distribution.png  
-results/figures/susceptibility_map.png  
-results/figures/roc_curve.png  
+### Global and Nepal event distribution
+![GLC Nepal distribution](outputs/figures/01_glc_global_nepal.png)
+
+### Nepal GLC points
+![Nepal GLC points](outputs/figures/02_nepal_glc_points.png)
+
+### Reliability diagram
+![Reliability diagram](outputs/figures/reliability_diagram.png)
+
+### RF vs fuzzy comparison
+![RF vs fuzzy scatter](outputs/figures/rf_vs_fuzzy_scatter.png)
 
 ---
 
