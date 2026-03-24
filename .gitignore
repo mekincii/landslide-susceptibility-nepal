@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Data (heavy / external)
+data/raw/
+data/processed/
+
+# Outputs we DON'T want
+outputs/maps/
+outputs/models/
+
+# Large / binary files
+*.tif
+*.parquet
+*.joblib
+
+# Misc
+.env
