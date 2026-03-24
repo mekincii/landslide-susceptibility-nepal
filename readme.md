@@ -212,17 +212,20 @@ Includes:
 
 ## Figures
 
-### Global and Nepal event distribution
-![GLC Nepal distribution](outputs/figures/01_glc_global_nepal.png)
-
-### Nepal GLC points
+### Landslide Event Distribution (Nepal)
 ![Nepal GLC points](outputs/figures/02_nepal_glc_points.png)
 
-### Reliability diagram
-![Reliability diagram](outputs/figures/reliability_diagram.png)
 
-### RF vs fuzzy comparison
-![RF vs fuzzy scatter](outputs/figures/rf_vs_fuzzy_scatter.png)
+### Random Forest Susceptibility Map
+![Susceptibility Map](outputs/figures/nepal_landslide_probabilities_reduced_map.png)
+
+
+### ML vs Fuzzy Comparison
+![RF vs Fuzzy Scatter](outputs/figures/rf_vs_fuzzy_scatter.png)
+
+
+### Model Reliability (Calibration)
+![Reliability Diagram](outputs/figures/reliability_diagram.png)
 
 ---
 
